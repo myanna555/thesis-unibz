@@ -1,0 +1,479 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Blade Demo Importer v2.5.9\n"
+"POT-Creation-Date: 2017-08-07 15:35+0300\n"
+"PO-Revision-Date: 2015-10-18 19:31+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: grve-blade-dummy-importer.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: grve-blade-dummy-importer.php:90
+msgid ""
+"You are about to import dummy data!\n"
+"It is recommended to clear your data first.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:91
+msgid ""
+"You are about to import partial dummy data!\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:189
+msgid "Single Content: File empty ot not existing!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:224
+msgid "Single Content: Error During Import!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:227
+msgid "Single Content: imported!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:246
+msgid "Dummy Content: File empty ot not existing!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:256
+msgid "Dummy Content: Error During Import!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:309
+msgid "Dummy Content: imported!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:321
+msgid "Theme Options: file empty ot not existing!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:325
+msgid "Theme Options: imported!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:336
+msgid "Widgets: no widgets available for this Demo!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:340
+msgid "Widgets: imported!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:349
+msgid "Import finished!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:350 grve-blade-dummy-importer.php:359
+msgid "Visit Site"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:353
+msgid ""
+"No options selected, please select some options and press the import button!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:358
+msgid "Import finished with errors!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:365
+msgid "The minimum PHP version required for the Dummy Importer is:"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:370
+msgid ""
+"Blade Theme is not activated! Blade Theme needs to be installed and "
+"activated!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:671 grve-blade-dummy-importer.php:680
+#: grve-blade-dummy-importer.php:728 grve-blade-dummy-importer.php:732
+#: grve-blade-dummy-importer.php:741 grve-blade-dummy-importer.php:1609
+#: grve-blade-dummy-importer.php:1618
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:672
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:733
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:749
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:774
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:824
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:864
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:911 grve-blade-dummy-importer.php:1133
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:965
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:989
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1098
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1265
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1274
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1355
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1372
+msgid "Invalid file type"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1441
+msgid "Remote server did not respond"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1447
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1454
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1459
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1465
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1593
+msgid "Import Blade Demos"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1610
+msgid "The file/demo does not exist, please try again."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1755
+msgid "Pages"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1770
+msgid "Portfolio Items"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1785
+msgid "Posts"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1800
+msgid "Products"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1823
+msgid "Welcome"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1824
+msgid "Demos"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1825
+msgid "Content"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1826
+msgid "Finish"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1845
+msgid "Please note the following points:"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1847
+msgid ""
+"The import process will work best on a clean installation. You can use a "
+"plugin such as WordPress Reset to clear your data first."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1848
+msgid ""
+"Ensure all needed plugins are already installed and activated, e.g. WPBakery "
+"Visual Composer, Blade Extension, WooCommerce, Contact Form 7 etc."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1849
+msgid ""
+"To import one of our Demos, select all or some of the options of any demo "
+"and press the import button."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1850
+msgid ""
+"Keep in mind not to run importer twice without clearing your data first. You "
+"might end up with duplicate data e.g duplicate menu items and/or widgets."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1851
+msgid ""
+"Once you start the process, please leave it running and uninterrupted! After "
+"the import, a status will be displayed with the results!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1857
+msgid ""
+"The normal operation time for the Import Full Demo mechanism is less than 3 "
+"minutes. For the Import On Demand process only a few seconds will be enough. "
+"Actual time may vary depending on your server performance. In case any of "
+"the import mechanisms is not successful, please inform us through our "
+"support forum to guide you through safely."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1859
+msgid ""
+"It is always recommended to use the Import On Demand process. Import On "
+"Demand is the fastest way to get a simple understanding of how the theme "
+"works and demonstrate in a few minutes your work to your customers."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1863
+msgid ""
+"The images included in preview are for demonstration purposes only. Some of "
+"them have been purchased from Shutter Stock and others were downloaded from "
+"Unsplash, Death To Stock and similar sources. It is worth noting that after "
+"the import process, you will have placeholders instead of the actual images."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1869
+msgid "Server Settings"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1891
+msgid "PHP Version"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1903 grve-blade-dummy-importer.php:1924
+#: grve-blade-dummy-importer.php:1944 grve-blade-dummy-importer.php:1964
+#: grve-blade-dummy-importer.php:1984
+msgid "Currently:"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1906
+msgid "(recommended PHP 5.6 or higher)"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1911
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1927
+msgid "(min:256M)"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1932
+msgid "PHP Max. Post Size"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1947
+msgid "(min:64M)"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1952
+msgid "PHP Upload Max. Filesize"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1967
+msgid "(min:32M)"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1972
+msgid "WP Memory Limit"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1987
+msgid "(recommended 96M or higher)"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1993
+msgid "Recommended Server Settings"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:1994
+msgid "Choose Demo"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2019
+msgid "Select your Demo"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2020
+msgid ""
+"Here you can select the demo of your choice. Nothing will be imported in "
+"your installation after clicking any button on this step. Just select one of "
+"the available demos, explore and then import any specific content you wish."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2034
+msgid "Preview Demo"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2035
+msgid "Explore Demo"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2082
+msgid "Import in progress..."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2083
+msgid "Don't close the browser or navigate away"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2096
+msgid "Import On Demand"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2097
+msgid ""
+"Choose the specific pages, portfolios, posts and products you wish to import "
+"into your site. Select the ones you prefer via the available multi selectors "
+"below and click the button Import Selected."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2104
+msgid ""
+"You can select/deselect multiple items too (ctrl + click on PC and command + "
+"click on Mac)."
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2108
+msgid "Clear Selection"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2109
+msgid "Import Selected"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2113 grve-blade-dummy-importer.php:2127
+msgid "Import Full Demo"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2114
+msgid ""
+"The import process will work best on a clean installation. You can use a "
+"plugin such as WordPress Reset to clear your data first. The import process "
+"will work best on a clean installation. You can use a plugin such as "
+"WordPress Reset to clear your data first"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2118
+msgid "Dummy Content"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2121
+msgid "Theme Options"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2124
+msgid "Widgets"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2151
+msgid "Import Completed!"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2153
+msgid "Visit Your Site"
+msgstr ""
+
+#: grve-blade-dummy-importer.php:2227
+msgid "Import Blade Demos, Dummy Content, Theme Options and Widgets."
+msgstr ""
+
+#: parsers.php:42 parsers.php:72 parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: parsers.php:84 parsers.php:89 parsers.php:279 parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Blade Demo Importer"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Import Blade Demo Content"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Greatives Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://greatives.eu"
+msgstr ""

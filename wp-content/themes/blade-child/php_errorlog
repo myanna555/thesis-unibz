@@ -1,0 +1,58 @@
+[06-Jun-2018 11:21:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 7
+[06-Jun-2018 11:48:18 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 101
+[06-Jun-2018 11:49:56 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 102
+[06-Jun-2018 12:05:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/template-results.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/template-results.php on line 6
+[06-Jun-2018 12:07:27 CST6CDT] PHP Fatal error:  require(): Failed opening required './wp-load.php' (include_path='.:/usr/local/php71/pear') in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 4
+[03-Aug-2018 12:45:55 UTC] WordPress database error Duplicate entry '1-1' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '1', '80')
+[03-Aug-2018 12:45:55 UTC] WordPress database error Duplicate entry '1-2' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '2', '60')
+[03-Aug-2018 12:45:55 UTC] WordPress database error Duplicate entry '1-3' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '3', '20')
+[03-Aug-2018 12:45:55 UTC] WordPress database error Duplicate entry '1-4' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '4', '100')
+[03-Aug-2018 12:45:55 UTC] WordPress database error Duplicate entry '1-5' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '5', '20')
+[03-Aug-2018 12:45:55 UTC] WordPress database error Duplicate entry '1-6' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '6', '100')
+[03-Aug-2018 12:45:55 UTC] WordPress database error Duplicate entry '1-7' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '7', '60')
+[03-Aug-2018 12:45:55 UTC] WordPress database error Duplicate entry '1-8' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '8', '60')
+[03-Aug-2018 12:45:55 UTC] WordPress database error Duplicate entry '1-9' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '9', '60')
+[03-Aug-2018 12:45:55 UTC] WordPress database error Duplicate entry '1-10' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '10', '60')
+[13-Aug-2018 08:43:19 UTC] WordPress database error Duplicate entry '1-3065' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '3065', '40')
+[13-Aug-2018 08:43:19 UTC] WordPress database error Duplicate entry '1-1052' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '1052', '60')
+[13-Aug-2018 08:43:19 UTC] WordPress database error Duplicate entry '1-2029' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '2029', '40')
+[13-Aug-2018 08:43:19 UTC] WordPress database error Duplicate entry '1-8153' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '8153', '20')
+[13-Aug-2018 08:43:19 UTC] WordPress database error Duplicate entry '1-3229' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '3229', '100')
+[13-Aug-2018 08:43:19 UTC] WordPress database error Duplicate entry '1-4339' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '4339', '60')
+[13-Aug-2018 08:43:19 UTC] WordPress database error Duplicate entry '1-3497' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '3497', '60')
+[13-Aug-2018 08:43:19 UTC] WordPress database error Duplicate entry '1-2561' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '2561', '80')
+[13-Aug-2018 08:43:19 UTC] WordPress database error Duplicate entry '1-6064' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '6064', '60')
+[13-Aug-2018 08:43:19 UTC] WordPress database error Duplicate entry '1-769' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '769', '40')
+[13-Aug-2018 08:49:27 UTC] WordPress database error Duplicate entry '1-3065' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '3065', '40')
+[13-Aug-2018 08:49:27 UTC] WordPress database error Duplicate entry '1-1052' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '1052', '60')
+[13-Aug-2018 08:49:27 UTC] WordPress database error Duplicate entry '1-2029' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '2029', '40')
+[13-Aug-2018 08:49:27 UTC] WordPress database error Duplicate entry '1-8153' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '8153', '20')
+[13-Aug-2018 08:49:27 UTC] WordPress database error Duplicate entry '1-3229' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '3229', '100')
+[13-Aug-2018 08:49:27 UTC] WordPress database error Duplicate entry '1-4339' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '4339', '60')
+[13-Aug-2018 08:49:27 UTC] WordPress database error Duplicate entry '1-3497' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '3497', '60')
+[13-Aug-2018 08:49:27 UTC] WordPress database error Duplicate entry '1-2561' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '2561', '80')
+[13-Aug-2018 08:49:27 UTC] WordPress database error Duplicate entry '1-6064' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '6064', '60')
+[13-Aug-2018 08:49:27 UTC] WordPress database error Duplicate entry '1-769' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('1', '769', '40')
+[13-Aug-2018 09:23:01 UTC] PHP Warning:  file_get_contents(http://unirecom.inf.unibz.it:8080/unirecom/api/v1.0/getrecom?target_user_id=10172&amp;recom_alg=SVD&amp;recom_size=5): failed to open stream: Connection timed out in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 64
+[13-Aug-2018 09:24:35 UTC] PHP Warning:  file_get_contents(http://unirecom.inf.unibz.it:8080/unirecom/api/v1.0/getrecom?target_user_id=10172&amp;recom_alg=SVD&amp;recom_size=5): failed to open stream: Connection timed out in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 65
+[13-Aug-2018 09:27:43 UTC] PHP Warning:  file_get_contents(http://unirecom.inf.unibz.it:8080/unirecom/api/v1.0/getrecom?target_user_id=2&amp;recom_alg=SVD&amp;recom_size=5): failed to open stream: Connection timed out in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 66
+[13-Aug-2018 09:32:45 UTC] PHP Warning:  file_get_contents(http://unirecom.inf.unibz.it:8080/unirecom/api/v1.0/getrecom?target_user_id=2&amp;recom_alg=SVD&amp;recom_size=5): failed to open stream: Connection timed out in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 67
+[13-Aug-2018 09:33:47 UTC] PHP Warning:  file_get_contents(http://unirecom.inf.unibz.it:8080/unirecom/api/v1.0/getrecom?target_user_id=2&amp;recom_alg=SVD&amp;recom_size=5): failed to open stream: Connection timed out in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 67
+[13-Aug-2018 09:33:57 UTC] PHP Warning:  file_get_contents(http://unirecom.inf.unibz.it:8080/unirecom/api/v1.0/getrecom?target_user_id=2&amp;recom_alg=SVD&amp;recom_size=5): failed to open stream: Connection timed out in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 67
+[13-Aug-2018 09:39:23 UTC] PHP Warning:  file_get_contents(http://unirecom.inf.unibz.it:8080/unirecom/api/v1.0/getrecom?target_user_id=2&amp;recom_alg=SVD&amp;recom_size=5): failed to open stream: Connection timed out in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 69
+[13-Aug-2018 10:49:54 UTC] PHP Warning:  file_get_contents(http://46.18.25.118:8080/unirecom/api/v1.0/getrecom/?target_user_id=10163&amp;recom_alg=KNNBaseline&amp;recom_size=5): failed to open stream: Connection timed out in /home/gatofala/public_html/thesis/wp-content/themes/blade-child/rate.php on line 70
+[28-Aug-2018 13:45:48 UTC] WordPress database error Duplicate entry '10202-22' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('10202', '22', '100')
+[28-Aug-2018 13:45:48 UTC] WordPress database error Duplicate entry '10202-41' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('10202', '41', '100')
+[28-Aug-2018 13:45:48 UTC] WordPress database error Duplicate entry '10202-136' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('10202', '136', '80')
+[28-Aug-2018 13:45:48 UTC] WordPress database error Duplicate entry '10202-211' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('10202', '211', '100')
+[28-Aug-2018 13:45:48 UTC] WordPress database error Duplicate entry '10202-1' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('10202', '1', '100')
+[28-Aug-2018 13:45:48 UTC] WordPress database error Duplicate entry '10202-418' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('10202', '418', '100')
+[24-Nov-2018 20:31:49 UTC] WordPress database error Duplicate entry '10260-219' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('10260', '219', '100')
+[24-Nov-2018 20:31:49 UTC] WordPress database error Duplicate entry '10260-1058' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('10260', '1058', '100')
+[24-Nov-2018 20:31:49 UTC] WordPress database error Duplicate entry '10260-1290' for key 'PRIMARY' for query INSERT INTO `ratings` (`user_id`, `uni_id`, `rating`) VALUES ('10260', '1290', '100')
