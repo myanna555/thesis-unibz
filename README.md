@@ -1,5 +1,5 @@
 # thesis-unibz
-Master's Thesis project in Software Engineering for Free University of Bolzano
+Master's Thesis project in Software Engineering for Free University of Bozen-Bolzano
 This is a UNIBZ research project devoted to personalized rankings and recommendations in the educational domain. 
 Respondent is asked to rate a few universities that are offered based on the geographic region they select.  Based on these ratings the system would show three lists of potential universities the respondent might be interested in.
 
