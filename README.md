@@ -6,3 +6,5 @@ Respondent is asked to rate a few universities that are offered based on the geo
 This Master thesis is undertaken by Anna Lambrix with the supervision of the project by Nabil El Ioini and Mehdi Elahi.
 
 This is a WP install, the db dump is provided with all the final data, tables and views.
+
+The install requires a js-composer (WP bakery was used for the front end)
